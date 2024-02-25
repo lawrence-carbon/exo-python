@@ -1,5 +1,7 @@
 # Exercices de Python
 
+[Référence syntaxe LaTex](https://en.wikibooks.org/wiki/LaTeX/Mathematics#Symbols)
+
 ## Exercice 1
 
 On place un capital de 1000 € sur un compte rémunéré à 4% par an.
