@@ -3,7 +3,7 @@
 [Référence syntaxe LaTex](https://en.wikibooks.org/wiki/LaTeX/Mathematics#Symbols)
 
 ## Exercice 1
-
+oui
 On place un capital de 1000 € sur un compte rémunéré à 4% par an.
 Écrire un programme Python qui calcule le nombre d'années au bout desquelles le capital sera doublé.
 
