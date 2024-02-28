@@ -11,7 +11,7 @@ On place un capital de 1000 € sur un compte rémunéré à 4% par an.
 
 Soit $( U_n )$ la suite définie par tout $( n ) \in ( \mathbb{N} )$
 $$U_{n} = 2 \sqrt{n} + 2$$
-Écrire un langage Python permettant de calculer pour un $( n )$ donné la valeur de $( U_n \)$. Afficher les termes de $U_0$ à $U_{1000}$.
+Écrire un langage Python permettant de calculer pour un $( n )$ donné la valeur de $( U_n )$. Afficher les termes de $U_0$ à $U_{1000}$.
 
 ## Exercice n° 3
 
